@@ -6,8 +6,8 @@ normal=`echo "\033[m"`
     bgred=`echo "\033[41m"`
     fgred=`echo "\033[31m"`
 YELLOW='\033[1;33m'
-printf "${menu}     © ᴘᴇɴᴇᴛʀᴀᴛᴏʀs                  ᴄᴏʀᴘᴏʀᴀᴛɪᴏɴ ©      "
-printf "${menu}           ♛ α cσмρℓεтεℓү αυтσмαтε∂ ρяσנεcт ♛         "
+printf "${menu}     © xtx Team ©      "
+printf "${menu}           ♛ PUBG AUTOMATED SYSTEM ♛         "
 cat /data/data/com.termux/files/home/xTxAutomated/pytransform/xTx | lolcat -a -d 5
    ./Header
     
